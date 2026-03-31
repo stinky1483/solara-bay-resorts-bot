@@ -1,7 +1,7 @@
 {
-  "name": "roblox-discord-bot",
+  "name": "SBR Services",
   "version": "1.0.0",
-  "description": "Discord bot to promote Roblox group members and rank in games",
+  "description": "Ran by damarian1_ dm for assistance",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
